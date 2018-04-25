@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+/public/avatars
+/public/backgrounds
+/public/img
+/public/uploads
+/public/tmp
+.idea/
